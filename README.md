@@ -20,7 +20,7 @@ For this analysis, Python and Pandas functions were used to change the "tripdura
 
 The analysis is based on the following:
 
-* Code - Datetime Dataytpe Conversion: [NYC_CitiBike_Challenge](NYC_CitiBike_Challenge.ipynb)
+* Code - Datetime Data Type Conversion: [NYC_CitiBike_Challenge](NYC_CitiBike_Challenge.ipynb)
 * Tableau Public link - Bike Sharing Story: [link to dashboard](LINK GOES HERE)
 [link to dashboard](LINK GOES HERE "link to dashboard")
 
