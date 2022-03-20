@@ -4,7 +4,7 @@
 
 ### Purpose
 
-The purpose of this analysis is to provide investors a comprehensive bike trip analysis to demonstrate a bike-sharing program in Des Moines, Iowa is a solid business proposal. The bike-sharing program is presented as an eco-friendly all-year round service to locals and tourists in the greater Des Moines, which is the fastest-growing metro in the Midwest. 
+The purpose of this analysis is to provide investors a comprehensive bike trip analysis to demonstrate a bike-sharing program in Des Moines, Iowa is a solid business proposal. The bike-sharing program is presented as an eco-friendly service to locals and tourists in the greater Des Moines; the fastest-growing metro in the Midwest. 
 
 For this analysis, Python and Pandas functions were used to change the "tripduration" column from an integer to a datetime data type. Additionally, by performing an exploratory analysis on the NYC Citi Bike trip data for the month of August, a set of high-quality visualizations was created using Tableau. Now, investors have all the data they need to make an educated decision on the two-wheel venture. Let’s go!
 
@@ -22,9 +22,7 @@ For this analysis, Python and Pandas functions were used to change the "tripdura
 The analysis is based on the following:
 
 * Code - Datetime Data Type Conversion: [NYC_CitiBike_Challenge](NYC_CitiBike_Challenge.ipynb)
-* Tableau Public link - Bike Sharing Story: 
-[link to dashboard](LINK GOES HERE)
-[link to dashboard](LINK GOES HERE "link to dashboard")
+* Tableau Public Link: [Bike-Sharing Program](https://public.tableau.com/views/Bike-SharingProgram/Bike-SharingProgram?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)
 
 ### Software and Application
 
@@ -102,7 +100,7 @@ In this visualization, a symbol map is created showing the most popular stations
       
 ## Summary 
 
-One trend we can observe based on this analysis is that male users whether subscriber or customer are the main riders of the bike-sharing program. In addition, the data shows that it is also commuters that travel to and from the city that use the citi bikes the most. A main reason could be work and education in Manhattan to be precise. To support this concept, below are two additional visualizations suggested for future analysis. These visualizations show exactly the top 10 starting and ending bike stations, which coincide with the most transited train and subway stations as well as ferry terminals around the city. Thus, providing more in-depth data about the demand of Citi Bikes in New York City.   
+One trend we can observe based on this analysis is that male riders and subscribers are the main users of the bike-sharing program. In addition, the data shows that it is also commuters that travel to and from the city that use the Citi bikes the most. A main reason could be work and education in Manhattan to be precise. To support this concept, below are two additional visualizations suggested for future analysis. These visualizations show exactly the top 10 starting and ending bike stations, which coincide with the most transited train and subway stations as well as ferry terminals around the city. Thus, providing more in-depth data about the demand of Citi Bikes in New York City.   
 
 1.**Top 10 Starting Stations**
 
