@@ -4,9 +4,7 @@
 
 ### Purpose
 
-The purpose of this analysis is to provide investors a comprehensive bike trip analysis to demonstrate a bike-sharing program in Des Moines, Iowa is a solid business proposal. The bike-sharing program is presented as an eco-friendly service to locals and tourists in the greater Des Moines; the fastest-growing metro in the Midwest. 
-
-For this analysis, Python and Pandas functions were used to change the "tripduration" column from an integer to a datetime data type. Additionally, by performing an exploratory analysis on the NYC Citi Bike trip data for the month of August, a set of high-quality visualizations was created using Tableau. Now, investors have all the data they need to make an educated decision on the two-wheel venture. Let’s go!
+The purpose of this analysis is to demonstrate that a bike-sharing program in Des Moines, Iowa is a solid business proposal to investors. For this analysis, Python and Pandas functions were used to change the "tripduration" column from an integer to a datetime data type. Additionally, by performing an exploratory analysis on the NYC Citi Bike trip data for the month of August, a set of high-quality visualizations was created using Tableau. Now, investors have all the data they need to make an educated decision on the two-wheel venture. Let’s go!
 
 <p float="left">
   <img src="Images/hightrestletrail.jpg " width="400" height="280" />
@@ -36,9 +34,9 @@ The software and web-based application used for this analysis are:
 
 In the initial stage of data exploration of the Citi Bike trip data, it was found that there was a total of 2,344,224 bike rides recorded during the month of August in New York City. Of which, 1,900,359 or 81% were from subscribers and 443,865 or 19% from customers. This total number of bike rides can also be viewed by gender breakdown. This means, 1,530,272 or 65% were male users, 588,431 or 25% were female users and 225,521 or 10% were unknown users. 
 
-For this analysis, the genders are identified as male, female and unknown and the user type is identified as customer or subscriber.
+For this analysis, the genders are identified as male, female and unknown and the user type is identified as customer and subscriber.
 
-Moreover, a set of interactive visualizations were created to display key findings of bike trips in New York City during the month of August. To interact with the graphs please refer to the above link posted under 'Files and Links'. Lastly, a description of the results for each visualization is included as well. 
+Moreover, a set of interactive visualizations were created to display key findings of bike trips in New York City during the month of August. To interact with the graphs please refer to the above Tableau Public link posted under 'Files and Links'. Lastly, a description of the results for each visualization is included as well. 
 
 <p>&nbsp;</p>
 
@@ -94,7 +92,7 @@ In this visualization, a horizontal bar graph is created showing peak riding hou
 
 ![7top_startingloc](Images/7top_startingloc.png)
 
-In this visualization, a symbol map is created showing the most popular stations in New York City for starting a bike journey by user type during the month of August. The symbol map can be filtered by user type as well. As noted earlier, the user type is identified as customer or subscriber. The symbol map is color coded to identify the top starting locations; dots closer to the red color are more popular locations and dots closer to the blue color are less popular locations. For example, the dark red dot as shown on the symbol map is Pershing Square North where Grand Central Station is located, and it is the most popular location to start a bike ride with a record of 16,564 users.
+In this visualization, a symbol map is created showing the most popular stations in New York City for starting a bike journey by user type during the month of August. As noted earlier, the user type is identified as customer and subscriber. The symbol map is color coded to identify the top starting locations; dots closer to the red color are more popular locations and dots closer to the blue color are less popular locations. For example, the dark red dot as shown on the symbol map is Pershing Square North where Grand Central Station is located, and it is the most popular location to start a bike ride with a record of 16,564 users.
 
 <p>&nbsp;</p>
       
@@ -106,14 +104,14 @@ One trend we can observe based on this analysis is that male riders and subscrib
 
 ![8top_startstation](Images/8top_startstation.png)
 
-In this visualization, a horizontal bar graph is created showing the top 10 starting stations by user type during the month of August. Along the x-axis is the number of trips, and the y-axis is the start station name. The bar graph can be filtered by user type as well. As noted earlier, the user type is identified as customer or subscriber. Also, the bar graph is color coded orange for subscriber and blue for customer. For example, the first orange bar states that 14,571 subscribers checked out a bike at Pershing Square North where Grand Central Station is located making it the number one starting station in all New York City as shown in the graph.
+In this visualization, a horizontal bar graph is created showing the top 10 starting stations by user type during the month of August. Along the x-axis is the number of trips, and the y-axis is the start station name. Also, the bar graph is color coded orange for subscriber and blue for customer. For example, the first orange bar states that 14,571 subscribers checked out a bike at Pershing Square North where Grand Central Station is located making it the number one starting station in all New York City as shown in the graph.
 
 
 2.**Top 10 Ending Stations**
 
 ![9end_topstation](Images/9end_topstation.png)
 
-In this visualization, a horizontal bar graph is created showing the top 10 ending stations by user type during the month of August. Along the x-axis is the number of trips, and the y-axis is the end station name. The bar graph can be filtered by user type as well. As noted earlier, the user type is identified as customer or subscriber. Also, the bar graph is color coded orange for subscriber and blue for customer. For example, the first orange bar states that 14,572 subscribers checked in a bike at Pershing Square North where Grand Central Station is located making it the number one ending station in all New York City as shown in the graph.
+In this visualization, a horizontal bar graph is created showing the top 10 ending stations by user type during the month of August. Along the x-axis is the number of trips, and the y-axis is the end station name. Also, the bar graph is color coded orange for subscriber and blue for customer. For example, the first orange bar states that 14,572 subscribers checked in a bike at Pershing Square North where Grand Central Station is located making it the number one ending station in all New York City as shown in the graph.
 
 <p>&nbsp;</p>
 
@@ -121,4 +119,4 @@ In this visualization, a horizontal bar graph is created showing the top 10 endi
 
 <p>&nbsp;</p>
 
-In conclusion, an exploratory analysis on NYC Citi Bike trip data was completed to create a set of visualizations using Tableau. Additionally, Python and Pandas functions were used to change the "tripduration" column from an integer to a datetime datatype. Overall, this analysis provides investors a comprehensive bike trip analysis to demonstrate a bike-sharing program in Des Moines, Iowa can be a solid venture.
+In conclusion, an exploratory analysis on NYC Citi Bike trip data was completed to create a set of visualizations using Tableau. Additionally, Python and Pandas functions were used to change the "tripduration" column from an integer to a datetime datatype. Overall, this analysis provides investors a comprehensive bike trip analysis to demonstrate that a bike-sharing program in Des Moines, Iowa can be a solid venture.
