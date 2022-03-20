@@ -88,7 +88,7 @@ In this visualization, a horizontal bar graph is created showing peak riding hou
 In this visualization, a symbol map is created showing the most popular stations in New York City for starting a bike journey by user type during the month of August. The symbol map can be filtered by user type as well. As noted earlier, the user type is identified as customer or subscriber. The symbol map is color coded to identify the top starting locations; dots closer to the red color are more popular locations and dots closer to the blue color are less popular locations. For example, the dark red dot as shown on the symbol map is Pershing Square North where Grand Central Station is located, and it is the most popular location to start a bike ride with a record of 16,564 users.
 
       
-## Summary
+## Summary - TO COMPLETE!!!
 
 There is a high-level summary of the results:
 
