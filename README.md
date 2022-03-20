@@ -8,7 +8,9 @@ The purpose of this analysis is to provide investors a comprehensive bike trip a
 
 For this analysis, Python and Pandas functions were used to change the "tripduration" column from an integer to a datetime datatype. Additionally, by performing an exploratory analysis on the NYC Citi Bike trip data for the month of August, a set of high-quality visualizations was created using Tableau. Now, investors have all the data they need to make an educated decision on the two-wheel venture. Let’s go!
 
-![image](Images/image.png)
+<p float="left">
+  <img src="Images/hightrestletrail.jpg " width="400" height="280" />
+</p>
 
 
 ## Results
