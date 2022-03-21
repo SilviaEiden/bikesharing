@@ -52,7 +52,7 @@ In this visualization, a line graph displays the number of bikes checked out by 
 
 ![2checkout_time_gender](Images/2checkout_time_gender.png)
 
-In this visualization, a line graph displays the number of bikes checked out by duration for each gender; that is male, female or unknown. Along the x-axis are the minutes of a trip duration, and the y-axis is the number of bikes. The line graph can be filtered by gender and the hour for further comparison. Also, the line graph is color coded orange for male, blue for female and red for unknown. For example, the orange line states that 108,087 male users checked out a bike between 12 AM and 1 AM with a trip duration of 5 minutes as shown in the graph.
+In this visualization, a line graph displays the number of bikes checked out by duration for each gender; male, female and unknown. Along the x-axis are the minutes of a trip duration, and the y-axis is the number of bikes. The line graph can be filtered by gender and the hour for further comparison. Also, the line graph is color coded orange for male, blue for female and red for unknown. For example, the orange line states that 108,087 male users checked out a bike between 12 AM and 1 AM with a trip duration of 5 minutes as shown in the graph.
 
 <p>&nbsp;</p>
 
@@ -60,7 +60,8 @@ In this visualization, a line graph displays the number of bikes checked out by 
 
 ![3trips_weekday_hour](Images/3trips_weekday_hour.png)
 
-In this visualization, a heatmap is created showing the number of bike trips for each hour of each day of the week. Along the x-axis is the stop time filtered by weekday, and the y-axis is the start time filtered by the hour. The darker the block the higher the number of trips. For example, the highest number of bike trips are on Thursdays recorded at 44,905 between 6 PM and 7 PM. 
+In this visualization, a heatmap is created showing the number of bike trips for each hour of each day of the week. Along the x-axis is the stop time filtered by weekday, and the y-axis is the start time filtered by the hour. The darker the block the higher the number of trips. For example, the highest number of bike trips are on Thursdays recorded at 44,905 by all users between 6 PM and 7 PM. 
+
 
 <p>&nbsp;</p>
 
@@ -76,7 +77,7 @@ In this visualization, a heatmap is created showing the number of bike trips by 
 
 ![5usertrip_gender](Images/5usertrip_gender.png)
 
-In this visualization, a heatmap is created showing the number of bike trips for each type of user and gender for each day of the week. Along the x-axis is the gender, and the y-axis is the user type and the start time filtered by the weekday. The heatmap can be filtered by user type and gender as well. As noted earlier, the user type is identified as customer or subscriber. The darker the block the higher the number of trips. For example, the highest number of bike trips are on Thursdays recorded at 259,316 by subscribers identified as male. 
+In this visualization, a heatmap is created showing the number of bike trips for each type of user and gender for each day of the week. Along the x-axis is the gender, and the y-axis is the user type and the start time filtered by the weekday. The heatmap can be filtered by user type and gender as well. As noted earlier, the user type is identified as customer and subscriber. The darker the block the higher the number of trips. For example, the highest number of bike trips are on Thursdays recorded at 259,316 by subscribers identified as male. 
 
 <p>&nbsp;</p>
 
@@ -84,7 +85,7 @@ In this visualization, a heatmap is created showing the number of bike trips for
 
 ![6august_peakhours](Images/6august_peakhours.png)
 
-In this visualization, a horizontal bar graph is created showing peak riding hours by user type during the month of August. Along the x-axis is the number of trips, and the y-axis is the start time filtered by the hour. The bar graph can be filtered by user type and hour as well. As noted earlier, the user type is identified as customer or subscriber. Also, the bar graph is color coded orange for subscriber and blue for customer. For example, the first orange bar states that 185,673 subscribers checked out a bike between 17 hours or 5 PM and 18 hours or 6 PM, which is the highest peak riding hour as shown in the graph.
+In this visualization, a horizontal bar graph is created showing peak riding hours by user type during the month of August. Along the x-axis is the number of trips, and the y-axis is the start time filtered by the hour. The bar graph can be filtered by user type and hour as well. As noted earlier, the user type is identified as customer and subscriber. Also, the bar graph is color coded orange for subscriber and blue for customer. For example, the first orange bar states that 185,673 subscribers checked out a bike between 17 hours or 5 PM and 18 hours or 6 PM, which is the highest peak riding hour as shown in the graph.
 
 <p>&nbsp;</p>
 
